@@ -1,7 +1,7 @@
 # Takepoint.io JSON API
 A JSON api for stats from the browser-based io game takepoint.io
 
-Takepoint.io is a browser-based top-down shooter game focused on capturing points. Wonderfully, the game collects players's stats on the subdomain (stats.takepoint.io)[https://stats.takepoint.io]. Less wonderfully, there's on way to programmatically read these stats
+Takepoint.io is a browser-based top-down shooter game focused on capturing points. Wonderfully, the game collects players's stats on the subdomain [stats.takepoint.io](https://stats.takepoint.io). Less wonderfully, there's on way to programmatically read these stats
 
 That's where this comes in
 
