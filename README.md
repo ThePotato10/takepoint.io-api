@@ -13,4 +13,4 @@ I hacked together a webscraper that reads the stats and creates a JSON object ou
 3. `pip install -r requirements.txt`
 4. `python3 server.py`
 
-This starts a server on `localhost:5500` with a ad hoc web interface. Raw JSON data is available at `http://localhost:5500/stats/<user>`
+This starts a server on `localhost:5500` with an ad hoc web interface. Raw JSON data is available at `http://localhost:5500/stats/<user>`
